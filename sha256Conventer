@@ -1,4 +1,4 @@
-import haslib #library 
+import hashlib #library 
 #keywords = hashlib-encode-hexdigest-sha256 
 
 valuess = "how to conventer sha256"
