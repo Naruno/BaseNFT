@@ -1,0 +1,15 @@
+import hashlib #library 
+#keywords = hashlib-encode-hexdigest-sha256 
+
+valuess = "how to conventer sha256"
+
+Valuess = hashlib.sha1(valuess.encode())
+
+print(Valuess.hexdigest)
+
+enterName= input("enterName : ")
+
+Enternames = hashlib.sha1(enterName.encode())
+
+print(Enternames.hexdigest) 
+
