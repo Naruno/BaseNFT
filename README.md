@@ -29,5 +29,6 @@ In our project, people don't spend a lot of money,how they can have nft is a sys
 ```
 $ cd ../
 ```
+###Pre-Alpha
 
 <a href="https://www.codefactor.io/repository/github/deyzir/new_nft_project/overview/main"><img src="https://www.codefactor.io/repository/github/deyzir/new_nft_project/badge/main" alt="CodeFactor" /></a>
